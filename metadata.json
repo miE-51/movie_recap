@@ -1,0 +1,6 @@
+{
+  "name": "Movie Recap Studio",
+  "description": "An interactive NLE timeline script editor, multi-track custom BGM mixer, and AI storyboard visualizer to craft, narrate, and export viral movie recaps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
